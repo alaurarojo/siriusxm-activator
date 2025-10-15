@@ -435,7 +435,7 @@ def update_2():
         print('HTTP Request failed')
 
 # Global variables used for requests
-radio_id_input = input("Enter Radio ID or VIN: ").upper()
+radio_id_input = input("075813258611: ").upper()
 uuid4 = str(uuid.uuid4())
 auth_token = ""
 seq = ""
